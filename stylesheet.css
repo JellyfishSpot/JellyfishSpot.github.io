@@ -1,0 +1,16 @@
+.purple {
+    color: purple;
+}
+
+h3 {
+    font-style: italic;
+}
+
+#biography {
+    text-decoration: underline;
+}
+
+.testing {
+    border: 3px dashed blue;
+    padding: 10px;
+}
